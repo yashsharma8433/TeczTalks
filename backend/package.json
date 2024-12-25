@@ -1,0 +1,30 @@
+{
+  "name": "tecztalks",
+  "version": "1.0.0",
+  "description": "TeczTalks - Tech News App A modern tech news platform built using the MERN stack.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashsharma8433/TeczTalks.git"
+  },
+  "keywords": [
+    "news",
+    "trending",
+    "tecz",
+    "talk"
+  ],
+  "author": "Yash Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashsharma8433/TeczTalks/issues"
+  },
+  "homepage": "https://github.com/yashsharma8433/TeczTalks#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
